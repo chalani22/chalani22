@@ -1,6 +1,6 @@
 # Hi, I'm Chalani Nadeesha 👋  
 
-🎓 I'm an undergraduate at **Sri Lanka Technology Campus (SLTC)**, pursuing a **BSc (Hons) in Information Technology specializing Software Engineering**.  
+🎓 I'm an undergraduate at **Sri Lanka Technology Campus (SLTC)**, pursuing a **BSc (Hons) in Information Technology specializing in Software Engineering**.  
 💻 I'm passionate about building **scalable web applications**, exploring **machine learning**, and solving real-world problems through **technology and innovation**.  
 🚀 Currently learning and exploring **Python**, **React**, and **AI-based automation systems**.  
 🤝 I'm open to **collaborating on software engineering, AI, and data-driven projects**.
@@ -35,17 +35,17 @@
 
 ## 📊 GitHub Stats
 
-![Chalani's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)  
-![GitHub Streak](https://streak-stats.demolab.com/?user=yourusername&theme=radical)
+![Chalani's GitHub Stats](https://github-readme-stats.vercel.app/api?username=chalani22&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chalani22&layout=compact&theme=radical)  
+![GitHub Streak](https://streak-stats.demolab.com/?user=chalani22&theme=radical)
 
 ---
 
 ## 🌐 Connect With Me  
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/chalani-nadeesha-b384b1249/)  
-- 📧 Email: chalaninadeesha2345@gmail.com  
-- 💻 [Portfolio Website](https://chalani-portfolio-gamma.vercel.app/) 
+- 📧 Email: **chalaninadeesha2345@gmail.com**  
+- 💻 [Portfolio Website](https://chalani-portfolio-gamma.vercel.app/)  
 
 ---
 
